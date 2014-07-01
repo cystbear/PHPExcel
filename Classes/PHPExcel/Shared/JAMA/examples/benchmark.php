@@ -6,8 +6,8 @@ error_reporting(E_ALL);
  * @package JAMA
  */
 
-require_once '../Matrix.php';
-require_once 'Stats.php';
+require_once __DIR__ . '/../Matrix.php';
+require_once __DIR__ . '/Stats.php';
 
 
 /**
